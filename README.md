@@ -16,15 +16,16 @@ The circuit is designed and tested in **Proteus**, and a PCB was created for pra
 ##  Project Images
 
 ### Circuit Schematic (Proteus)
-
+https://github.com/vijayalakshmi-s25/555-Timer-Flasher/blob/main/Timer_proteus_sch.PNG
 
 ### Circuit Schematic (Kicad)
-
+https://github.com/vijayalakshmi-s25/555-Timer-Flasher/blob/main/Timer_sch.PNG
 
 ###  PCB Layout
+https://github.com/vijayalakshmi-s25/555-Timer-Flasher/blob/main/Timer_pcb.PNG
 
 ###  3D PCB View
-
+https://github.com/vijayalakshmi-s25/555-Timer-Flasher/blob/main/Timer_3dview.PNG
 
 ---
 
@@ -44,7 +45,7 @@ You can open the provided `.dsn` file in Proteus to check the working of the LED
 ---
 
 ##  Files Included
-- `schematic.png` → Circuit diagram (Proteus schematic)  
+- `schematic.png` → Circuit diagram (Proteus & Kicad schematic)  
 - `pcb.png` → PCB layout  
 - `3dview.png` → 3D PCB rendering  
 - `555_timer_flasher.dsn` → Proteus project file  
