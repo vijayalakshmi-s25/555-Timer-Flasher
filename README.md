@@ -62,8 +62,8 @@ You can open the provided `.dsn` file in Proteus to check the working of the LED
 
 ---
 
-##  Author
+##  Designed & built by 
 - **Vijayalakshmi S**  
 -  Embedded Systems & IoT Enthusiast  
--  https://github.com/vijayalakshmi-s25
+- [GitHub] (https://github.com/vijayalakshmi-s25)
  
